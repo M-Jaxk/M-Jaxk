@@ -49,8 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-###
-###
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
