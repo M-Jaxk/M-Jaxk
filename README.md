@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **M-Jaxk** from **Myanmar** — a passionate tech enthusiast with a background in Computer Science and experienced full-stack developer specializing in building modern web applications that are both functional and scalable.
+I'm **M-Jaxk** from **Myanmar** — a passionate tech enthusiast with a **background in Computer Science** and experienced full-stack developer specializing in building modern web applications that are both functional and scalable.
 
 - 🔭 I’m working as a **Senior Full-Stack Developer** at **IT VISIONHUB Co. Ltd**
 - 📚 I'm currently learning **advanced system design** and exploring **cloud-native development** to build more scalable applications.
