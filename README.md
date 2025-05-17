@@ -24,7 +24,6 @@
 - 📚 I'm currently learning **advanced system design** and exploring **cloud-native development** to build more scalable applications.
 - ⚡ In my free time, I enjoy contributing to open-source projects, refining my coding skills, and keeping up with the latest trends in web development.
 - 🚀 I don't just build websites — I craft digital experiences that **are fast, functional, and user-focused**.
-
 ---
 
 ## 🛠 Languages & Tools
