@@ -51,12 +51,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=M-jaxk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=EC4899&text_color=FFFFFF&ring_color=A78BFA" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-jaxk&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="48%" />
 
-![GitHub Stats](https://github-readme-stats-seven-psi-82.vercel.app/api?username=M-Jaxk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-![Top Langs](https://github-readme-stats-seven-psi-82.vercel.app/api/top-langs/?username=M-Jaxk&hide=HTML&langs_count=8&layout=compact&theme=&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&exclude=Python,TypeScript)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-jaxk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-jaxk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=EC4899&point=FFFFFF" width="48%" />
 
 </div>
 
