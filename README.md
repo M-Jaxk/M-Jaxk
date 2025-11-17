@@ -53,39 +53,56 @@
 
 ## 🎯 What I Bring to the Table
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+<table>
+  <tr>
+    <td>
 
-**🏗️ Architecture Expertise**
-- Action / Service Pattern
-- CQRS Architecture
-- Microservices & API Design
-- Repository Pattern & SOLID Principles
+### 🏗️ Architecture Expertise
+- Action / Service Pattern  
+- CQRS Architecture  
+- Microservices & API Design  
+- Repository Pattern & SOLID Principles  
 
-**💻 Development Skills**
-- Full-Stack Web Development (Laravel, Vue.js, Livewire, MySQL, Mongodb)
-- Real-Time Features with WebSockets
-- Payment Gateway Integration (Stripe, PayPal)
-- OAuth2 & JWT Authentication
+### 💻 Development Skills
+- Full-Stack Dev (Laravel, Vue.js, Livewire, MySQL, MongoDB)  
+- Real-Time Features with WebSockets  
+- Payment Integration (Stripe, PayPal)  
+- OAuth2 & JWT Authentication  
 
-**🚀 DevOps & Deployment**
-- Docker Containerization & Image Optimization
-- CI/CD Pipelines (GitHub Actions)
-- Cloud Deployment (DigitalOcean, AWS)
-- Application Performance & Load Optimization
+    </td>
+    <td>
 
-**🎨 Collaboration & Tooling**
-- Git & GitHub for Version Control
-- Jira & Trello for Project Management
-- VS Code & PHPStorm for Development
-- Postman for API Testing
-- Figma for Design Collaboration
+### 🚀 DevOps & Deployment
+- Docker Containerization  
+- CI/CD (GitHub Actions)  
+- Deployment (DigitalOcean, AWS)  
+- Performance Optimization  
 
-**🤝 Soft Skills**
-- Strong Team Collaboration & Leadership
-- Agile / Scrum Methodology
-- Problem-Solving & Analytical Thinking
-- Adaptability and Continuous Learning
-<br clear="right"/>
+### 🎨 Collaboration & Tooling
+- Git & GitHub  
+- Jira & Trello  
+- VS Code & PHPStorm  
+- Postman & Figma  
+
+    </td>
+    <td style="padding: 0 25px;">
+
+### 🤝 Soft Skills
+- Team Collaboration  
+- Agile / Scrum  
+- Problem Solving  
+- Continuous Learning  
+
+### 🧭&nbsp;Leadership&nbsp;&amp;&nbsp;Mentorship
+- Code Reviews & Best Practices  
+- Guiding Junior Developers  
+- Project Ownership  
+- Clear Technical Communication  
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
