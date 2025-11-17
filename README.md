@@ -78,7 +78,7 @@
 - Deployment (DigitalOcean, AWS)  
 - Performance Optimization  
 
-### 🎨 Collaboration & Tooling
+### 🎨&nbsp;Collaboration&nbsp;&amp;&nbsp;Tooling
 - Git & GitHub  
 - Jira & Trello  
 - VS Code & PHPStorm  
